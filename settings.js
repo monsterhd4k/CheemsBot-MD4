@@ -69,7 +69,7 @@ global.websitex = "https://www.instagram.com/monsterhd4k/" //ur website to be di
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "/n" //ur sticker watermark packname
+global.packname = "ㅤ" //ur sticker watermark packname
 global.author = "" //ur sticker watermark author
 
 //Bot theme media
